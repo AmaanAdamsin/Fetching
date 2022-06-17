@@ -1,0 +1,35 @@
+[
+    {
+        "firstname": "John",
+        "lastname": "Doe",
+        "address": {
+            "street": "123 Street",
+            "city": "Hudson",
+            "state": "Texas"
+        },
+        "email": "johndoe@gmail.com",
+        "phone": "888-888-8888"
+    },
+    {
+        "firstname": "John",
+        "lastname": "Love",
+        "address": {
+            "street": "12 Street",
+            "city": "Hudson",
+            "state": "Texas"
+        },
+        "email": "johnlove@gmail.com",
+        "phone": "888-777-8888"
+    },
+    {
+        "firstname": "Quinn",
+        "lastname": "Love",
+        "address": {
+            "street": "31 Street",
+            "city": "Hudson",
+            "state": "Texas"
+        },
+        "email": "lovequinn@gmail.com",
+        "phone": "444-777-8888"
+    }
+]
