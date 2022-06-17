@@ -28,7 +28,7 @@ async function getData() {
     console.log(posts);
 
     posts.forEach((post, i) => {
-        if (i < 10) {
+        if (i < 12) {
             const title = post.title;
             const body = post.body;
 
